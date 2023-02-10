@@ -1,0 +1,22 @@
+@keyframes example {
+    from {background-color: rgb(236, 189, 133);}
+    to {background-color:  rgb(214, 151, 74);}
+  }
+
+
+.upload:hover{
+    background-color: rgb(236, 189, 133);
+    animation-name: example;
+    animation-duration: 1s;
+}
+
+.upload1:hover{
+    background-color: rgb(236, 189, 133);
+    animation-name: example;
+    animation-duration: 1s;
+}
+.upload2:hover{
+    background-color: rgb(236, 189, 133);
+    animation-name: example;
+    animation-duration: 1s;
+}
